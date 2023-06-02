@@ -31,11 +31,33 @@ body {
 
 #home-heading {
     text-align: center;
-    margin: 30px 7vw;
+    margin: 40px 7vw;
     text-transform: uppercase;
 }
 
 #home-heading-p {
     text-align: center;
     margin: 30px 7vw;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+/*---- Customer Reviews ----*/
+
+#customer-reviews {
+    background-color: #9d080b;
+    text-align: center;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+#customer-reviews p {
+    margin: 20px 7vw;
+    font-weight: 200;
+}
+
+#customer-reviews h3 {
+    text-transform: uppercase;
+    font-weight: 300;
 }
