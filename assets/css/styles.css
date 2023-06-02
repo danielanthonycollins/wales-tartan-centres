@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:wght@200;300;500;600&display=swap');
 
+/*---- Main Font ----*/
+
+body {
+    font-family: 'Asap', sans-serif;
+}
+
 /*---- Hero Image ----*/
 
 #hero-image {
@@ -19,4 +25,17 @@
         background-repeat: no-repeat;
         background-size: cover;
     }
+}
+
+/*---- Home Heading ----*/
+
+#home-heading {
+    text-align: center;
+    margin: 30px 7vw;
+    text-transform: uppercase;
+}
+
+#home-heading-p {
+    text-align: center;
+    margin: 30px 7vw;
 }
