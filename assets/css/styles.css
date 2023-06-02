@@ -68,6 +68,10 @@ body {
 
 /*---- Footer ----*/
 
+.footer {
+    
+}
+
 @media only screen and (max-width: 767px) {
     .footer-text-center-sm {
         text-align: center;
