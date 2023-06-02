@@ -110,6 +110,8 @@ You  can find the live site via the following URL - [live webpage](https://youru
 ​
 ### **Content:**
 ​
+https://www.w3schools.com/howto/howto_css_style_hr.asp
+
 ### **Media:**
 ​
 Images go here
