@@ -84,8 +84,8 @@ body {
 
 .footer-social-icon {
     height: 1rem;
-    font-size: 1.6em;
-    padding: 0 4px;
+    font-size: 1.8em;
+    padding: 0 6px;
 }
 
 .footer-social-icon:hover {
@@ -93,6 +93,7 @@ body {
     transition: 0.4s;
 }
 
-a {
-    color: inherit;
+footer a {
+    color: inherit !important;
+    text-decoration: none !important;
 }
