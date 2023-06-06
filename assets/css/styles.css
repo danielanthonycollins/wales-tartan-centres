@@ -69,10 +69,15 @@ body {
 /*---- Footer ----*/
 
 .footer {
-    padding-top: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .footer-hr {
     border-top: solid 3px #9d080b;
     width: 20%;
+}
+
+.i-footer-heading {
+    padding-right: 4px;
 }
