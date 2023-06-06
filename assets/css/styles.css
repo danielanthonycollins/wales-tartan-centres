@@ -76,9 +76,3 @@ body {
     border-top: solid 3px #9d080b;
     width: 20%;
 }
-
-@media only screen and (max-width: 767px) {
-    .footer-text-center-sm {
-        text-align: center;
-    }
-}
