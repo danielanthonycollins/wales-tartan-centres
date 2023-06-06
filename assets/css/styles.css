@@ -92,3 +92,7 @@ body {
     color: #9d080b;
     transition: 0.4s;
 }
+
+a {
+    color: inherit;
+}
