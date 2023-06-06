@@ -81,3 +81,14 @@ body {
 .i-footer-heading {
     padding-right: 4px;
 }
+
+.footer-social-icon {
+    height: 1rem;
+    font-size: 1.6em;
+    padding: 0 4px;
+}
+
+.footer-social-icon:hover {
+    color: #9d080b;
+    transition: 0.4s;
+}
