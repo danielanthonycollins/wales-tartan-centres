@@ -66,6 +66,86 @@ body {
     padding-right: 5px;
 }
 
+/*---- Kilt Hire Products ----*/
+
+#kilt-hire-image-1 {
+    background: url(../images/KiltHireProduct1.jpg) center no-repeat;
+    background-size: auto;
+    background-size: cover;
+    height: 400px;
+}
+
+#kilt-hire-image-2 {
+    background: url(../images/KiltHireProduct2.jpg) center no-repeat;
+    background-size: auto;
+    background-size: cover;
+    height: 400px;
+}
+
+#kilt-hire-image-3 {
+    background: url(../images/KiltHireProduct3.jpg) center no-repeat;
+    background-size: auto;
+    background-size: cover;
+    height: 400px;
+}
+
+#kilt-hire-desc-1 {
+    background-color: #ba171a;
+    color: rgb(238, 235, 235);
+    padding: 15px;
+}
+
+#kilt-hire-desc-2 {
+    background-color: #ba171a;
+    color: rgb(238, 235, 235);
+    padding: 15px;
+}
+
+#kilt-hire-desc-3 {
+    background-color: #ba171a;
+    color: rgb(238, 235, 235);
+    padding: 15px;
+}
+
+@media only screen and (min-width: 1200px) {
+    #kh-products-large {
+        width: 1200px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+#kh-products-large {
+    display: flex;
+    flex-direction: column;
+}
+
+@media only screen and (max-width: 768px) {
+    #kilt-hire-image-1 {
+        order: 1;
+    }
+
+    #kilt-hire-desc-1 {
+        order: 2;
+    }
+
+    #kilt-hire-image-2 {
+        order: 3;
+    }
+
+    #kilt-hire-desc-2 {
+        order: 4;
+    }
+
+    #kilt-hire-image-3 {
+        order: 5;
+    }
+
+    #kilt-hire-desc-3 {
+        order: 6;
+    }
+}
+
 /*---- Footer ----*/
 
 .footer {
