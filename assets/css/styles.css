@@ -73,6 +73,7 @@ body {
     background-size: auto;
     background-size: cover;
     height: 400px;
+    padding: 25px;
 }
 
 #kilt-hire-image-2 {
@@ -80,6 +81,7 @@ body {
     background-size: auto;
     background-size: cover;
     height: 400px;
+    padding: 25px;
 }
 
 #kilt-hire-image-3 {
@@ -87,24 +89,26 @@ body {
     background-size: auto;
     background-size: cover;
     height: 400px;
+    padding: 25px;
 }
 
 #kilt-hire-desc-1 {
     background-color: #ba171a;
     color: rgb(238, 235, 235);
-    padding: 15px;
+    padding: 25px;
+
 }
 
 #kilt-hire-desc-2 {
     background-color: #ba171a;
     color: rgb(238, 235, 235);
-    padding: 15px;
+    padding: 25px;
 }
 
 #kilt-hire-desc-3 {
     background-color: #ba171a;
     color: rgb(238, 235, 235);
-    padding: 15px;
+    padding: 25px;
 }
 
 @media only screen and (min-width: 1200px) {
