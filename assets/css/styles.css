@@ -68,6 +68,11 @@ body {
 
 /*---- Kilt Hire Products ----*/
 
+.page-heading {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 #kilt-hire-image-1 {
     background: url(../images/KiltHireProduct1.jpg) center no-repeat;
     background-size: auto;
@@ -149,6 +154,10 @@ body {
         order: 6;
     }
 }
+
+/*---- About Us ----*/
+
+
 
 /*---- Footer ----*/
 
