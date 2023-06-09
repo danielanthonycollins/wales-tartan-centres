@@ -42,9 +42,9 @@ body {
     margin-bottom: 30px;
 }
 
-/*---- Customer Reviews ----*/
+/*---- Red Info Box ----*/
 
-#customer-reviews {
+.red-info-box {
     background-color: #9d080b;
     text-align: center;
     color: #fff;
@@ -52,17 +52,17 @@ body {
     padding-bottom: 5px;
 }
 
-#customer-reviews p {
+.red-info-box p {
     margin: 20px 7vw;
     font-weight: 200;
 }
 
-#customer-reviews h3 {
+.red-info-box h3 {
     text-transform: uppercase;
     font-weight: 300;
 }
 
-#customer-reviews i {
+.red-info-box i {
     padding-right: 5px;
 }
 
