@@ -73,6 +73,14 @@ body {
     padding-bottom: 20px;
 }
 
+.vertical-center-align {
+    align-self: center;
+}
+
+.red-background-correction {
+    background-color: #ba171a;
+}
+
 #kilt-hire-image-1 {
     background: url(../images/kilthireproduct1.jpg) center no-repeat;
     background-size: auto;
@@ -153,6 +161,12 @@ body {
     #kilt-hire-desc-3 {
         order: 6;
     }
+}
+
+#kilt-hire-desc-1 h3,
+#kilt-hire-desc-2 h3,
+#kilt-hire-desc-3 h3 {
+    padding-bottom: 20px;
 }
 
 /*---- About Us ----*/
