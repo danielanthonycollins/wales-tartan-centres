@@ -9,7 +9,7 @@ body {
 /*---- Hero Image ----*/
 
 #hero-image {
-    background: url(../images/KiltHeroImage2.jpg);
+    background: url(../images/kiltheroimage2.jpg);
     height: 500px;
     width: 100%;
     background-position: center;
@@ -74,7 +74,7 @@ body {
 }
 
 #kilt-hire-image-1 {
-    background: url(../images/KiltHireProduct1.jpg) center no-repeat;
+    background: url(../images/kilthireproduct1.jpg) center no-repeat;
     background-size: auto;
     background-size: cover;
     height: 400px;
@@ -82,7 +82,7 @@ body {
 }
 
 #kilt-hire-image-2 {
-    background: url(../images/KiltHireProduct2.jpg) center no-repeat;
+    background: url(../images/kilthireproduct2.jpg) center no-repeat;
     background-size: auto;
     background-size: cover;
     height: 400px;
@@ -90,7 +90,7 @@ body {
 }
 
 #kilt-hire-image-3 {
-    background: url(../images/KiltHireProduct3.jpg) center no-repeat;
+    background: url(../images/kilthireproduct3.jpg) center no-repeat;
     background-size: auto;
     background-size: cover;
     height: 400px;
