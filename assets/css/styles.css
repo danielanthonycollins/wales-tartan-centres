@@ -6,9 +6,9 @@ body {
     font-family: 'Asap', sans-serif;
 }
 
-/*---- Hero Image ----*/
+/*---- Home Hero Image ----*/
 
-#hero-image {
+#home-hero-image {
     background: url(../images/kiltheroimage2.jpg);
     height: 500px;
     width: 100%;
@@ -67,11 +67,6 @@ body {
 }
 
 /*---- Kilt Hire Products ----*/
-
-.page-heading {
-    padding-top: 10px;
-    padding-bottom: 20px;
-}
 
 .vertical-center-align {
     align-self: center;
@@ -171,7 +166,18 @@ body {
 
 /*---- About Us ----*/
 
+#about-hero-image {
+    background: url(../images/aboutusheroimage.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.about-us-text {
+    padding: 25px;
+}
 
 /*---- Footer ----*/
 
