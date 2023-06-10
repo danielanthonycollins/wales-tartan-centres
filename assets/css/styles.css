@@ -219,6 +219,19 @@ body {
     position: absolute;
 }
 
+#contact-background {
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+#contact-info-padding {
+    padding: 20px 0;
+}
+
+#contact-info-padding h4 {
+    padding: 10px 0;
+}
+
 /*---- Footer ----*/
 
 .footer {
