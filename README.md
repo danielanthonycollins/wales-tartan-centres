@@ -1,5 +1,7 @@
 # **Wales Tartan Centres**
 
+View the live project here
+
 ## **Site Overview**
 
 Wales Tartan Centres is a local business who provide Welsh kilt hire throughout South Wales for weddings and other formal events. The main target audience is couples getting married but also anyone looking for something different to wear to a formal occasion.
@@ -57,10 +59,10 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
 
 ​
 
-- To inform the user about Welsh tartan and Welsh kilt hire
-- To inform the user about our home hire service, for those who live outside of Swansea
+- To inform the user about Welsh tartan kilt hire
+- To inform the user about the home hire service, for those who live outside of Swansea
 - To inform the user on opening times if they wish to visit
-- To inform the user about what we offer when they are here
+- To inform the user about what the company offer when they are in store
 - To offer the user an oppertunity to get in contact
   ​
   ​
