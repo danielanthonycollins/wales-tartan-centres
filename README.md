@@ -112,10 +112,10 @@ I used #f8f8f8 for the background of the contact form as this worked well with t
 ## **Typography**
 
 ​
-Here is a chance to discuss the fonts used and again why.
+I decided to import the ASAP font from Google Fonts, which can be found at the top of styles.css and I chose this because I felt it worked well with the company image, it's not a font which is widely used and it styled very nicely onto all pages and elements where it was used.
 ​
 
-- All fonts were sourced from Google fonts, as stated in the credits.
+
   ​
 
 ## **Current Features Common to all pages**
