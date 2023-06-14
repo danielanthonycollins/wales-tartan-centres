@@ -64,12 +64,27 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
 - To inform the user on opening times if they wish to visit
 - To inform the user about what the company offer when they are in store
 - To offer the user an oppertunity to get in contact
-  ​
-  ​
+  ​​
 
 ### **Wireframes:**
 
 ​
+
+![Home Page Desktop Wireframe](documentation/wireframes/homedesktopwf.png)
+
+![Home Page Mobile & Tablet Wireframe](documentation/wireframes/homemobilewf.png)
+
+![Kilt Hire Page Desktop Wireframe](documentation/wireframes/kilthiredesktopwf.png)
+
+![Kilt Hire Page Mobile & Tablet Wireframe](documentation/wireframes/kilthiremobilewf.png)
+
+![About Us Page Desktop Wireframe](documentation/wireframes/aboutusdesktopwf.png)
+
+![About Us Page Mobile & Tablet Wireframe](documentation/wireframes/aboutusmobilewf.png)
+
+![Contact Us Page Desktop Wireframe](documentation/wireframes/contactusdesktopwf.png)
+
+![Contact Us Page Mobile & Tablet Wireframe](documentation/wireframes/contactusmobilewf.png)
 
 ### **Color Scheme:**
 
