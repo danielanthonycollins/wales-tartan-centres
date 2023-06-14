@@ -104,7 +104,9 @@ Contact Us Mobile & Tablet View
 ### **Color Scheme:**
 
 ​
-Here discuss about the colours you have chosen for the design and the reasoning behind it, make sure to include hash values as well!
+As the company logo is red, I chose to use a red #9d080b from the logo as the main colour for creating backgrounds, hover effects and hr elements etc and a white backround for the entire site to help the red jump of the page.
+
+I used #f8f8f8 for the background of the contact form as this worked well with the red and white colour scheme already in place, and helped to break this page up slightly. It also helped it to stand out from the other elements, as the contact form is the most important part of the page.
 ​
 
 ## **Typography**
