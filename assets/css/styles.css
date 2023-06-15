@@ -6,6 +6,13 @@ body {
     font-family: 'Asap', sans-serif;
 }
 
+/*---- Main Logo ----*/
+
+#main-logo {
+    width: 175px;
+    height: auto;
+}
+
 /*---- General Styling ----*/
 
 .heading-hr {
