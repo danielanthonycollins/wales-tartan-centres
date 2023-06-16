@@ -270,8 +270,12 @@ Responsiveness was checked and worked as intended with the following browsers:
 
 ### **Functionality**
 
-Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
-​
+Functionality of the website was tested as follows:
+
+- When the logo in the navigation bar is clicked, this should direct the user to the home page from any page on the website. This was checked on all pages and passed.
+- Every page link directs the user to the relevant page, from anywhere in the website. When viewing a page, the active page should be highlighted with darker text in the navigation bar. This is the case for all four of the main pages.
+- When the social media links are clicked, this should open a new tab and direct the user to the relevant social media platform including Facebook, Instagram and Youtube. When hovered over, the icon should turn red and then back to black when moved away. This was checked on all pages and passed.
+  ​
 
 ### **Validators**
 
