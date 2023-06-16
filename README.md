@@ -243,7 +243,8 @@ Functionality of the website was tested as follows:
 - When the logo in the navigation bar is clicked, this should direct the user to the home page from any page on the website. This was checked on all pages and passed.
 - Every page link directs the user to the relevant page, from anywhere in the website. When viewing a page, the active page should be highlighted with darker text in the navigation bar. This is the case for all four of the main pages.
 - When the social media links are clicked in the footer, this should open a new tab and direct the user to the relevant social media platform including Facebook, Instagram and Youtube. When hovered over, the icon should turn red and then back to black when moved away. This was checked on all pages and passed.
-- Next
+- On the contact page, the contact form was tested extensively with different scenarios where different required fields were deliberately left blank to ensure the user couldn't submit the form without the required information. The form was also checked to ensure the user wasn't required to enter or select anything that they didn't have to. The email field was tested with 'test', 'test@' and then finally 'test@test.com' with only the third input being accepted when submitted. When submitted, the form should direct to the thank-you.html page, which upon testing it did.
+- A 404.html page was added for instances where the website can't find the page the user is trying to access. Although a default 404 error page would show automatically, I didn't want the customer to be directed off the website and give them the option to go to another page via the navigation bar, instead of a white page with a simple error message. To test if the customer is re-directed to 404.html automatically where a 404 error occurs, I changed the /page section of the URL to various random number and letter sequences and in all cases the default 404.html page was shown.
 
 ### **Validators**
 
@@ -311,11 +312,6 @@ I found the following bugs during the development process:
 
 - Accessibility error when testing with Lighthouse
 
-  - Problem: When testing the about-us.html, index.html and kilt-hire.html pages with lighthouse, the report listed an aria attribute as invalid.
-  - Cause: The aria-description attribue used within these pages
-  - Resolution: After discussing with my mentor and both of us looking into this in great detail, we decided to leave this as it was. This is because when an aria-label is used instead, lighthouse prefers this however the HTML validator does not, which is the reason why I used description in the first place. The [HTML validator](https://validator.w3.org/) deemed this an acceptable attribute as did the [WAVE accessibility validator](https://wave.webaim.org/).
-
-- Accessibility error when testing with Lighthouse
   - Problem: When testing the about-us.html, index.html and kilt-hire.html pages with lighthouse, the report listed an aria attribute as invalid.
   - Cause: The aria-description attribue used within these pages
   - Resolution: After discussing with my mentor and both of us looking into this in great detail, we decided to leave this as it was. This is because when an aria-label is used instead, lighthouse prefers this however the HTML validator does not, which is the reason why I used description in the first place. The [HTML validator](https://validator.w3.org/) deemed this an acceptable attribute as did the [WAVE accessibility validator](https://wave.webaim.org/).
