@@ -259,12 +259,21 @@ The following enhancements could be made in the future to improve the website:
 
 ## **Testing Phase**
 
-- Responsiveness - How do you test this, dev tools? checking on multiple devices?
-  ​
-- Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
+### **Responsiveness**
+
+Responsiveness was checked and worked as intended with the following browsers:
+
+- Chrome (114.0.5735.133 Official Build x86_64)
+- Safari (16.5 17615.2.9.11.6, 17615)
+- Firefox (114.0.1 64-bit)
   ​
 
-### Validators
+### **Functionality**
+
+Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
+​
+
+### **Validators**
 
 - HTML validator results (using [Markup Validation Service](https://validator.w3.org/)):
 
@@ -358,6 +367,8 @@ I deployed the page on GitHub pages via the following procedure: -
   ​
 
 ## **Credits**
+
+Thank you to my employer, Wales Tartan Centres for allowing me to use their own stock images, logo and branding for this project.
 
 ### **Honorable mentions**
 
