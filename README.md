@@ -2,6 +2,8 @@
 
 [View the live project here](https://danielanthonycollins.github.io/wales-tartan-centres/index.html)
 
+![Website shown on multiple devices](documentation/devices/all-devices-blackwb-small.png)
+
 ## **Site Overview**
 
 Wales Tartan Centres is a local business who provide Welsh kilt hire throughout South Wales for weddings and other formal events. The main target audience is couples getting married but also anyone looking for something different to wear to a formal occasion.
@@ -130,6 +132,7 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 - On smaller screens the page links are reduced to a hamburger menu to optimize the users experience.
 - The logo always acts as a link to the home page.
 - The white background helps the logo and page links stand out on the screen.
+- This section is linked to the user story 'As a user, I want to navigate the page to find what I require quickly and easily.'
   ​
 
 ### Footer:
@@ -147,7 +150,7 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 
 ### Home - Hero Image:
 
-![Home Hero Image](documentation/screenshots/homeheroscreenshot.png)
+![Home Hero Image](documentation/screenshots/homeheroscreenshotsmall.png)
 ​
 
 - I chose to use this image as it's not only powerful but also gives a clear indication what the company is offering. This is the first thing a user sees when they enter the website, so it grabs the users attention instantly and gives them a good idea of what's to come.
@@ -168,6 +171,80 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 
 - The companies customer reviews were included on the home page so that users could see what previous customers of the company think about their products and quality of service.
 - This was styled with a red background and white text to separate the welcome message above and footer below, but also to help this section stand out on the page.
+
+### Kilt Hire - Products:
+
+![Kilt Hire Products](documentation/screenshots/kilthirescreenshot.png)
+​
+
+- Please note that this feature has three products, the screenshot shows an example of one product for illustration purposes.
+- This feature allows the user to see which tartan kilt outfits are available to hire and how much they cost. Each product has some information which is specific to that particular tartan to help the customer in making their decision.
+- This feature is neatly broken up into three rows, one for each product, with the companies red branding shown in a reverse grid pattern.
+- This section relates to the user story 'As a user, I want to know which tartans are available to hire' and also 'As a user, I want to find out how much it is to hire a kilt'.
+
+### About Us - Main Image:
+
+![About Us Main Image](documentation/screenshots/aboutusmainimagescreenshot.png)
+​
+
+- I decided to use a staff photo at the top of the about us page, to showcase the team of people who the user can expect to see if they visit the store. This helps to create a connection with the customer before they've even visited, which will make their in store experience even better.
+- The image was also chosen as the staff are wearing kilts themselves, in a tartan where the colours match with the red theme of the website and the branding.
+
+### About Us - Our Story:
+
+![About Us Our Story](documentation/screenshots/aboutusourstoryscreenshot.png)
+​
+
+- This section gives some information on the companies history and stresses how much they've grown over the years as a business.
+- The red line underneath the heading was used to match with the same line shown in the footer, for continuity.
+
+### About Us - Home Hire Service:
+
+![About Us Home Hire Service](documentation/screenshots/aboutushomehireservice.png)
+​
+
+- This section is based on the same red customer reviews section shown on the home page, just with some different information.
+- One of the site aims was to promote this service that the company offers, so I decided to use the strong red background with white text, to really make it stand out. I also included a home icon using Fontawesome, to draw the users eye to this feature.
+
+### Contact - Contact Form:
+
+![Contact Form](documentation/screenshots/contactformscreenshot.png)
+​
+
+- This feature allows the user to submit their details along with an enquiry to the company, so they can respond in their own time.
+- It also features a tick box allowing the user to sign up to their mailing list, and receive emails with offers and special promotions.
+- Full Name, Email Address, Telephone number and How can we help you? are required fields, the tick box is optional. The email box features the email input type, and so the website won't let the user submit their enquiry with an incorrectly formatted email address.
+- Once submitted, the page re-directs to a thank you page where the user is told the company will reply ASAP (this feature can be seen below).
+
+### Contact - Contact Information:
+
+![Contact Information](documentation/screenshots/contactinformationscreenshot.png)
+​
+
+- This feature displays the companies telephone number, email address and store address should they wish to contact or visit the company themselves.
+- Each contact method starts with the relevant font awesome icon, styled to match the branding of the rest of the website.
+
+### Contact - Google Map:
+
+![Google Map](documentation/screenshots/googlemapscreenshot.png)
+​
+
+- The Google Map feature allows the user to see where the companies store is actually located on a physical map, which is much easier and more relatable than simply looking at a physical address.
+- The map includes controls to allow the user to zoom in and out, and also view on a larger map which directs them to Google.
+
+### Thank You Page:
+
+![Thank You Message](documentation/screenshots/thankyouscreenshot.png)
+​
+
+- This is the message shown on the thank you page when a user submits an enquiry using the contact form. The user is told they will be contacted ASAP about their enquiry, and confirms that their enquiry has been successfully submitted.
+
+### 404 Error Page:
+
+![Error message](documentation/screenshots/errorscreenshot.png)
+​
+
+- This is the message shown by the 404 page when the user tries to navigate to a page on the website which doesn't exist or is not working.
   ​
 
 ## **Future-Enhancements**
