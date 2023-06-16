@@ -103,7 +103,11 @@ I decided to import the [ASAP](https://fonts.google.com/specimen/Asap?query=ASAP
 
 ### Navigation Bar:
 
+Desktop view:
 ![Navbar](documentation/screenshots/navbarscreenshot.png)
+
+Mobile view:
+![Navbar](documentation/screenshots/hamburgermenuscreenshot.png)
 
 - The user is given links to each page on the website, where the page currenly being viewed is made clear with the darker text.
 - Each option is clearly labelled & easy to read.
@@ -339,4 +343,4 @@ https://blog.hubspot.com/website/how-to-embed-google-map-in-html
 
 ### **Media:**
 
-All stock images were kindly provied by Wales Tartan Centres, for use with this project.
+All stock images were kindly provided by Wales Tartan Centres, for use with this project.
