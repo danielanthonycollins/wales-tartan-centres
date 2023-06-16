@@ -301,7 +301,24 @@ Functionality of the website was tested as follows:
 
 ## **Bugs**
 
-Removing Method Post from contact form
+I found the following bugs during the development process:
+
+- Contact Form
+
+  - Problem: When submitted, the contact form was not re-directing the user to the thank-you.html page.
+  - Cause: The method="post" attribute was confusing the browser
+  - Resolution: The method attribute was removed completely and the form re-directed the customer correctly.
+
+- Accessibility error when testing with Lighthouse
+
+  - Problem: When testing the about-us.html, index.html and kilt-hire.html pages with lighthouse, the report listed an aria attribute as invalid.
+  - Cause: The aria-description attribue used within these pages
+  - Resolution: After discussing with my mentor and both of us looking into this in great detail, we decided to leave this as it was. This is because when an aria-label is used instead, lighthouse prefers this however the HTML validator does not, which is the reason why I used description in the first place. The [HTML validator](https://validator.w3.org/) deemed this an acceptable attribute as did the [WAVE accessibility validator](https://wave.webaim.org/).
+
+- Accessibility error when testing with Lighthouse
+  - Problem: When testing the about-us.html, index.html and kilt-hire.html pages with lighthouse, the report listed an aria attribute as invalid.
+  - Cause: The aria-description attribue used within these pages
+  - Resolution: After discussing with my mentor and both of us looking into this in great detail, we decided to leave this as it was. This is because when an aria-label is used instead, lighthouse prefers this however the HTML validator does not, which is the reason why I used description in the first place. The [HTML validator](https://validator.w3.org/) deemed this an acceptable attribute as did the [WAVE accessibility validator](https://wave.webaim.org/).
 
 ---
 
