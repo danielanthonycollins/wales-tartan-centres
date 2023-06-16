@@ -7,9 +7,6 @@
 ## **Site Overview**
 
 Wales Tartan Centres is a local business who provide Welsh kilt hire throughout South Wales for weddings and other formal events. The main target audience is couples getting married but also anyone looking for something different to wear to a formal occasion.
-​
-
-​
 
 ## Table of contents:
 
@@ -39,37 +36,27 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
 
 ### **Target Audiences:**
 
-​
-
 - Users getting married in the South Wales region
 - Users interested in formalwear for their upcoming function
 - Users interested in something different to wear to their prom or graduation
-  ​
 
 ### **User Stories:**
-
-​
 
 - As a user, I want to see the subject matter of the page.
 - As a user, I want to navigate the page to find what I require quickly and easily.
 - As a user, I want to know which tartans are available to hire
 - As a user, I want to find out how much it is to hire a kilt
-  ​
 
 ### **Site Aims:**
-
-​
 
 - To inform the user about Welsh tartan kilt hire
 - To inform the user about the home hire service, for those who live outside of Swansea
 - To inform the user on opening times if they wish to visit
 - To inform the user about what the company offer when they are in store
 - To offer the user an oppertunity to get in contact
-  ​​
 
 ### **Wireframes:**
 
-​
 Home Page Desktop View
 
 ![Home Page Desktop Wireframe](documentation/wireframes/homedesktopwf.png)
@@ -104,28 +91,19 @@ Contact Us Mobile & Tablet View
 
 ### **Color Scheme:**
 
-​
 As the company logo is red, I chose to use a red #9d080b from the logo as the main colour for creating backgrounds, hover effects and hr elements etc and a white backround for the entire site to help the red jump of the page.
 
 I used #f8f8f8 for the background of the contact form as this worked well with the red and white colour scheme already in place, and helped to break this page up slightly. It also helped it to stand out from the other elements, as the contact form is the most important part of the page.
-​
 
 ## **Typography**
 
-​
-I decided to import the ASAP font from Google Fonts, which can be found at the top of styles.css and I chose this because I felt it worked well with the company image, it's not a font which is widely used and it styled very nicely onto all pages and elements where it was used.
-​
-
-​
+I decided to import the [ASAP](https://fonts.google.com/specimen/Asap?query=ASAP) font from Google Fonts, which can be found at the top of styles.css and I chose this because I felt it worked well with the company image, it's not a font which is widely used and it styled very nicely onto all pages and elements where it was used.
 
 ## **Current Features Common to all pages**
-
-​
 
 ### Navigation Bar:
 
 ![Navbar](documentation/screenshots/navbarscreenshot.png)
-​
 
 - The user is given links to each page on the website, where the page currenly being viewed is made clear with the darker text.
 - Each option is clearly labelled & easy to read.
@@ -133,12 +111,10 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 - The logo always acts as a link to the home page.
 - The white background helps the logo and page links stand out on the screen.
 - This section is linked to the user story 'As a user, I want to navigate the page to find what I require quickly and easily.'
-  ​
 
 ### Footer:
 
 ![Footer](documentation/screenshots/footerscreenshot.png)
-​
 
 - The user is given key information via the footer on every page; The company address, opening times and links to social media.
 - I decided to include the address in the footer because every customer who wishes to hire from the company will need to visit their premises, so the customer needs to know where they need to go.
@@ -151,7 +127,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Home - Hero Image:
 
 ![Home Hero Image](documentation/screenshots/homeheroscreenshotsmall.png)
-​
 
 - I chose to use this image as it's not only powerful but also gives a clear indication what the company is offering. This is the first thing a user sees when they enter the website, so it grabs the users attention instantly and gives them a good idea of what's to come.
 - The image is scaled and positioned carefully so even when it becomes more narrow vertically on larger screens you can still see the key components of the outfit.
@@ -159,7 +134,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Home - Welcome Message:
 
 ![Home Welcome Message](documentation/screenshots/homewelcomescreenshot.png)
-​
 
 - I included a small welcome message to separate the hero image from the customer reviews section below, and also give the user a small introduction to the company and what they offer.
 - It's not too long, as most users don't want to read paragraphs of text, but gives enough info to the user to make them want to carry on reading elsewhere on the website.
@@ -167,7 +141,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Home - Customer Reviews:
 
 ![Home Customer Reviews](documentation/screenshots/customerreviewsscreenshot.png)
-​
 
 - The companies customer reviews were included on the home page so that users could see what previous customers of the company think about their products and quality of service.
 - This was styled with a red background and white text to separate the welcome message above and footer below, but also to help this section stand out on the page.
@@ -175,7 +148,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Kilt Hire - Products:
 
 ![Kilt Hire Products](documentation/screenshots/kilthirescreenshot.png)
-​
 
 - Please note that this feature has three products, the screenshot shows an example of one product for illustration purposes.
 - This feature allows the user to see which tartan kilt outfits are available to hire and how much they cost. Each product has some information which is specific to that particular tartan to help the customer in making their decision.
@@ -185,7 +157,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### About Us - Main Image:
 
 ![About Us Main Image](documentation/screenshots/aboutusmainimagescreenshot.png)
-​
 
 - I decided to use a staff photo at the top of the about us page, to showcase the team of people who the user can expect to see if they visit the store. This helps to create a connection with the customer before they've even visited, which will make their in store experience even better.
 - The image was also chosen as the staff are wearing kilts themselves, in a tartan where the colours match with the red theme of the website and the branding.
@@ -193,7 +164,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### About Us - Our Story:
 
 ![About Us Our Story](documentation/screenshots/aboutusourstoryscreenshot.png)
-​
 
 - This section gives some information on the companies history and stresses how much they've grown over the years as a business.
 - The red line underneath the heading was used to match with the same line shown in the footer, for continuity.
@@ -201,7 +171,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### About Us - Home Hire Service:
 
 ![About Us Home Hire Service](documentation/screenshots/aboutushomehireservice.png)
-​
 
 - This section is based on the same red customer reviews section shown on the home page, just with some different information.
 - One of the site aims was to promote this service that the company offers, so I decided to use the strong red background with white text, to really make it stand out. I also included a home icon using Fontawesome, to draw the users eye to this feature.
@@ -209,7 +178,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Contact - Contact Form:
 
 ![Contact Form](documentation/screenshots/contactformscreenshot.png)
-​
 
 - This feature allows the user to submit their details along with an enquiry to the company, so they can respond in their own time.
 - It also features a tick box allowing the user to sign up to their mailing list, and receive emails with offers and special promotions.
@@ -219,7 +187,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Contact - Contact Information:
 
 ![Contact Information](documentation/screenshots/contactinformationscreenshot.png)
-​
 
 - This feature displays the companies telephone number, email address and store address should they wish to contact or visit the company themselves.
 - Each contact method starts with the relevant font awesome icon, styled to match the branding of the rest of the website.
@@ -227,7 +194,6 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Contact - Google Map:
 
 ![Google Map](documentation/screenshots/googlemapscreenshot.png)
-​
 
 - The Google Map feature allows the user to see where the companies store is actually located on a physical map, which is much easier and more relatable than simply looking at a physical address.
 - The map includes controls to allow the user to zoom in and out, and also view on a larger map which directs them to Google.
@@ -235,17 +201,14 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 ### Thank You Page:
 
 ![Thank You Message](documentation/screenshots/thankyouscreenshot.png)
-​
 
 - This is the message shown on the thank you page when a user submits an enquiry using the contact form. The user is told they will be contacted ASAP about their enquiry, and confirms that their enquiry has been successfully submitted.
 
 ### 404 Error Page:
 
 ![Error message](documentation/screenshots/errorscreenshot.png)
-​
 
 - This is the message shown by the 404 page when the user tries to navigate to a page on the website which doesn't exist or is not working.
-  ​
 
 ## **Future Enhancements**
 
@@ -254,8 +217,6 @@ The following enhancements could be made in the future to improve the website:
 - A 'Why use us?' page could be added showing the companies USP's (unique selling points), with images to support each USP. For example, kilts are actually made on-site, so a photo of someone making a kilt backed up by an image from behind the scenes.
 - More input types could be added to the contact form, such as function date and customers address to give the company more information about the person enquiring, and also what their needs are.
 - A short muted video could be added to promote the company and the products offered, for those who prefer a video to see the options available, rather than static images.
-
-​
 
 ## **Testing Phase**
 
@@ -266,7 +227,6 @@ Responsiveness was checked and worked as intended with the following browsers:
 - Chrome (114.0.5735.133 Official Build x86_64)
 - Safari (16.5 17615.2.9.11.6, 17615)
 - Firefox (114.0.1 64-bit)
-  ​
 
 ### **Functionality**
 
@@ -276,7 +236,6 @@ Functionality of the website was tested as follows:
 - Every page link directs the user to the relevant page, from anywhere in the website. When viewing a page, the active page should be highlighted with darker text in the navigation bar. This is the case for all four of the main pages.
 - When the social media links are clicked in the footer, this should open a new tab and direct the user to the relevant social media platform including Facebook, Instagram and Youtube. When hovered over, the icon should turn red and then back to black when moved away. This was checked on all pages and passed.
 - Next
-  ​
 
 ### **Validators**
 
@@ -332,36 +291,26 @@ Functionality of the website was tested as follows:
 
   - thank-you.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/thank-you.html).
 
-​
-​
-
 ## **Bugs**
 
 Removing Method Post from contact form
-
-​
 
 ---
 
 ## **Deployment**
 
-I deployed the page on GitHub pages via the following procedure: -
-​
+I deployed the page on GitHub pages via the following procedure:
 
 1. From the project's [repository](https://github.com/danielanthonycollins/wales-tartan-centres), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select **Deploy from a branch** and then the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
-   ​
-   You can find the live site [here](https://danielanthonycollins.github.io/wales-tartan-centres/index.html)
+
+You can find the live site [here](https://danielanthonycollins.github.io/wales-tartan-centres/index.html)
 
 ---
 
-​
-
 ## **Tech**
-
-​
 
 - HTML5
 - CSS3
@@ -369,7 +318,6 @@ I deployed the page on GitHub pages via the following procedure: -
 - [Google Fonts](https://fonts.google.com/)
 - [Google Maps](https://www.google.com/maps)
 - [Fontawesome](https://fontawesome.com/)
-  ​
 
 ## **Credits**
 
@@ -378,11 +326,9 @@ Thank you to my employer, Wales Tartan Centres for allowing me to use their own 
 ### **Honorable mentions**
 
 Special thanks to my mentor Richard Wells for his excellent advice and support throughout this project.
-​
 
 ### **Content:**
 
-​
 https://www.w3schools.com/howto/howto_css_style_hr.asp
 
 https://stackoverflow.com/questions/6722467/how-do-i-remove-the-default-link-color-of-the-html-hyperlink-a-tag
@@ -393,5 +339,4 @@ https://blog.hubspot.com/website/how-to-embed-google-map-in-html
 
 ### **Media:**
 
-​
-Images go here
+All stock images were kindly provied by Wales Tartan Centres, for use with this project.
