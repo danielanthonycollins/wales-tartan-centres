@@ -115,8 +115,7 @@ I used #f8f8f8 for the background of the contact form as this worked well with t
 I decided to import the ASAP font from Google Fonts, which can be found at the top of styles.css and I chose this because I felt it worked well with the company image, it's not a font which is widely used and it styled very nicely onto all pages and elements where it was used.
 ​
 
-
-  ​
+​
 
 ## **Current Features Common to all pages**
 
@@ -149,9 +148,19 @@ This is an example of the features section, your going to talk about each sectio
   ​
 - Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
   ​
-- Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
-  ​
-  ​
+
+### **Validators**
+
+- CSS validator result:
+
+IMAGE
+
+Three warnings were as per the image below. The first is due to the import of Google Fonts. The last two were due to a background and border color being the same, however this was needed to apply consistency to the hover feature applied to the button.
+
+IMAGE
+
+​
+​
 
 ## **Bugs**
 
