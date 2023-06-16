@@ -104,10 +104,10 @@ I decided to import the [ASAP](https://fonts.google.com/specimen/Asap?query=ASAP
 ### Navigation Bar:
 
 Desktop view:
-![Navbar](documentation/screenshots/navbarscreenshot.png)
+![Navbar desktop](documentation/screenshots/navbarscreenshot.png)
 
 Mobile view:
-![Navbar](documentation/screenshots/hamburgermenuscreenshot.png)
+![Navbar mobile](documentation/screenshots/hamburgermenuscreenshot.png)
 
 - The user is given links to each page on the website, where the page currenly being viewed is made clear with the darker text.
 - Each option is clearly labelled & easy to read.
@@ -216,7 +216,11 @@ Mobile view:
 
 ## **Future Enhancements**
 
-The following enhancements could be made in the future to improve the website:
+The following enhancements could be made in the future to improve the website: telephoneattemptscreenshot.png
+
+- I tried including the following code for the telephone input in the contact form, to add some additional validation and avoid users entering incorrect telephone numbers. However, even though it did provide validation, it was too specific and the standard error message the user received didn't provide a sufficient explanation as to why it wouldn't accept the data entered, the user would have been left to figure it out for themselves. This would provide a poor user experience, and could potentially result in the user leaving the website without providing their contact information. So I decided to remove it. In the future, this code could be developed further and reimplemented to give the website the validation initially intended, but with more specific instructions if the user enters data which doesn't meet the validation requirements.
+
+  ![Error message](documentation/screenshots/telephoneattemptscreenshot.png)
 
 - A 'Why use us?' page could be added showing the companies USP's (unique selling points), with images to support each USP. For example, kilts are actually made on-site, so a photo of someone making a kilt backed up by an image from behind the scenes.
 - More input types could be added to the contact form, such as function date and customers address to give the company more information about the person enquiring, and also what their needs are.
