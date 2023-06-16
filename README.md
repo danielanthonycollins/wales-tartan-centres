@@ -230,11 +230,40 @@ The following enhancements could be made in the future to improve the website: t
 
 ### **Responsiveness**
 
-Responsiveness was checked and worked as intended with the following browsers:
+Responsiveness was checked and worked as intended with the following browsers and screen sizes:
 
-- Chrome (114.0.5735.133 Official Build x86_64)
-- Safari (16.5 17615.2.9.11.6, 17615)
-- Firefox (114.0.1 64-bit)
+- Extra Large (27" Mac Desktop):
+
+  - Chrome (114.0.5735.133 Official Build x86_64)
+  - Safari (16.5 17615.2.9.11.6, 17615)
+  - Firefox (114.0.1 64-bit)
+
+- Large (15" Macbook Pro Laptop):
+
+  - Chrome (114.0.5735.133 Official Build x86_64)
+  - Safari (16.5 17615.2.9.11.6, 17615)
+  - Firefox
+    (114.0.1 64-
+
+- Medium (10.9" iPad):
+
+  - Chrome
+  - Safari
+  - Firefox
+
+- Small (6" iPhone 13):
+
+  - Chrome (114.0.5735.124)
+  - Safari
+  - Firefox (114.2 31625)
+
+- Small (Galaxy Fold 3):
+
+  - Chrome
+  - Safari
+  - Firefox
+
+Devtools was also used to check the responsiveness as various screen sizes and devices from the list of devices available. All were fully responsive and caused no issues.
 
 ### **Functionality**
 
@@ -244,6 +273,7 @@ Functionality of the website was tested as follows:
 - Every page link directs the user to the relevant page, from anywhere in the website. When viewing a page, the active page should be highlighted with darker text in the navigation bar. This is the case for all four of the main pages.
 - When the social media links are clicked in the footer, this should open a new tab and direct the user to the relevant social media platform including Facebook, Instagram and Youtube. When hovered over, the icon should turn red and then back to black when moved away. This was checked on all pages and passed.
 - On the contact page, the contact form was tested extensively with different scenarios where different required fields were deliberately left blank to ensure the user couldn't submit the form without the required information. The form was also checked to ensure the user wasn't required to enter or select anything that they didn't have to. The email field was tested with 'test', 'test@' and then finally 'test@test.com' with only the third input being accepted when submitted. When submitted, the form should direct to the thank-you.html page, which upon testing it did.
+- Also on the contact page, the email link was tested to ensure when it's clicked or tapped, a new email is started on the users device to the correct email address, to avoid manual input error if the user decided to write this down and type the email themselves. When the email was clicked, a new email was started with the email address already filled in.
 - A 404.html page was added for instances where the website can't find the page the user is trying to access. Although a default 404 error page would show automatically, I didn't want the customer to be directed off the website and give them the option to go to another page via the navigation bar, instead of a white page with a simple error message. To test if the customer is re-directed to 404.html automatically where a 404 error occurs, I changed the /page section of the URL to various random number and letter sequences and in all cases the default 404.html page was shown.
 
 ### **Validators**
