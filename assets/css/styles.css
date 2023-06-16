@@ -13,6 +13,12 @@ body {
     height: auto;
 }
 
+/*---- Navbar Accessibility Fix ----*/
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, .6);
+}
+
 /*---- General Styling ----*/
 
 .heading-hr {
