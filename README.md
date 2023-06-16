@@ -153,16 +153,18 @@ This is an example of the features section, your going to talk about each sectio
 
 - CSS validator result:
 
-IMAGE
+![CSS main result](documentation/screenshots/cssmainresult.png)
 
 Three warnings were as per the image below. The first is due to the import of Google Fonts. The last two were due to a background and border color being the same, however this was needed to apply consistency to the hover feature applied to the button.
 
-IMAGE
+![CSS warning result](documentation/screenshots/csswarningresult.png)
 
 ​
 ​
 
 ## **Bugs**
+
+Removing Method Post from contact form
 
 ​
 
