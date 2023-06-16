@@ -164,12 +164,12 @@ This is an example of the features section, your going to talk about each sectio
 I deployed the page on GitHub pages via the following procedure: -
 ​
 
-1. From the project's [repository](pageurl), go to the **Settings** tab.
+1. From the project's [repository](https://github.com/danielanthonycollins/wales-tartan-centres), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
-3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
+3. Under the **Source** section, select **Deploy from a branch** and then the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
    ​
-   You can find the live site via the following URL - [live webpage](https://yoururlhere)
+   You can find the live site [here](https://danielanthonycollins.github.io/wales-tartan-centres/index.html)
 
 ---
 
@@ -181,7 +181,9 @@ I deployed the page on GitHub pages via the following procedure: -
 
 - HTML
 - CSS
-- <https://getbootstrap.com/docs/4.5/getting-started/introduction/>
+- [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction)
+- [Google Fonts](https://fonts.google.com/)
+- [Google Maps](https://www.google.com/maps)
   ​
 
 ## **Credits**
