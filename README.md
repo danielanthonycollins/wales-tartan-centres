@@ -316,6 +316,11 @@ I found the following bugs during the development process:
   - Cause: The aria-description attribue used within these pages
   - Resolution: After discussing with my mentor and both of us looking into this in great detail, we decided to leave this as it was. This is because when an aria-label is used instead, lighthouse prefers this however the HTML validator does not, which is the reason why I used description in the first place. The [HTML validator](https://validator.w3.org/) deemed this an acceptable attribute as did the [WAVE accessibility validator](https://wave.webaim.org/).
 
+- Vertical alignment on kilt-hire.html
+  - Problem: Even with vertical-align set to 'middle' for each kilt hire products white text description, it was still showing at the top of each red section as opposed to the middle. This left a large red gap at the bottom of the red box which looked odd.
+  - Cause: I was advised that vertical-align is a very tricky style declaration to perfect and can cause problems by my mentor.
+  - Resolution: Using devtools to try a few different possible solutions, I used the align-self property instead and added the 'red-background-correction' class to fill in the missing red sections above and below the text, otherwise the red background would have just fitted to the text and not matched with the image height.
+
 ---
 
 ## **Deployment**
