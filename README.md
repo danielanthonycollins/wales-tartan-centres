@@ -22,8 +22,7 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
     - [**Color Scheme:**](#color-scheme)
   - [**Typography**](#typography)
   - [**Current Features Common to all pages**](#current-features-common-to-all-pages)
-    - [_Navigation Bar:_](#navigation-bar)
-    - [\*features](#features)
+  - [**Other Features**](#other-features)
   - [**Future-Enhancements**](#future-enhancements)
   - [**Testing Phase**](#testing-phase)
   - [**Bugs**](#bugs)
@@ -121,21 +120,54 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 
 ​
 
-#### _Navigation Bar:_
+### Navigation Bar:
 
-This is an example of the features section, your going to talk about each section of the page and what it offers for the navbar for example
+![Navbar](documentation/screenshots/navbarscreenshot.png)
 ​
 
-- The user is given links to each section of the page
-- Each option is presented in a way that is always obvious and reable
-- on smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
+- The user is given links to each page on the website, where the page currenly being viewed is made clear with the darker text.
+- Each option is clearly labelled & easy to read.
+- On smaller screens the page links are reduced to a hamburger menu to optimize the users experience.
+- The logo always acts as a link to the home page.
+- The white background helps the logo and page links stand out on the screen.
   ​
 
-#### \*features
+### Footer:
 
+![Footer](documentation/screenshots/footerscreenshot.png)
 ​
 
-- This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
+- The user is given key information via the footer on every page; The company address, opening times and links to social media.
+- I decided to include the address in the footer because every customer who wishes to hire from the company will need to visit their premises, so the customer needs to know where they need to go.
+- I also decided to include the opening times because this was one of the main goals of the website, to inform the user when the company is open for business. Therefore, including this on every page meant the customer was more likely to find it quicker and easier.
+- Links to social media were also included as this is such a huge part of company marketing these days. Customers are encouraed to follow the company and keep up to date with their latest updates via social media.
+- Each feature within the footer is styled appropriately to match the companies branding.
+
+## **Other Features**
+
+### Home - Hero Image:
+
+![Home Hero Image](documentation/screenshots/homeheroscreenshot.png)
+​
+
+- I chose to use this image as it's not only powerful but also gives a clear indication what the company is offering. This is the first thing a user sees when they enter the website, so it grabs the users attention instantly and gives them a good idea of what's to come.
+- The image is scaled and positioned carefully so even when it becomes more narrow vertically on larger screens you can still see the key components of the outfit.
+
+### Home - Welcome Message:
+
+![Home Welcome Message](documentation/screenshots/homewelcomescreenshot.png)
+​
+
+- I included a small welcome message to separate the hero image from the customer reviews section below, and also give the user a small introduction to the company and what they offer.
+- It's not too long, as most users don't want to read paragraphs of text, but gives enough info to the user to make them want to carry on reading elsewhere on the website.
+
+### Home - Customer Reviews:
+
+![Home Customer Reviews](documentation/screenshots/customerreviewsscreenshot.png)
+​
+
+- The companies customer reviews were included on the home page so that users could see what previous customers of the company think about their products and quality of service.
+- This was styled with a red background and white text to separate the welcome message above and footer below, but also to help this section stand out on the page.
   ​
 
 ## **Future-Enhancements**
@@ -149,7 +181,7 @@ This is an example of the features section, your going to talk about each sectio
 - Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
   ​
 
-### **Validators**
+### Validators
 
 - HTML validator results (using [Markup Validation Service](https://validator.w3.org/)):
 
@@ -234,11 +266,12 @@ I deployed the page on GitHub pages via the following procedure: -
 
 ​
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction)
 - [Google Fonts](https://fonts.google.com/)
 - [Google Maps](https://www.google.com/maps)
+- [Fontawesome](https://fontawesome.com/)
   ​
 
 ## **Credits**
