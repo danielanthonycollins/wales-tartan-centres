@@ -385,13 +385,13 @@ Special thanks to my mentor Richard Wells for his excellent advice and support t
 
 ### **Content:**
 
-https://www.w3schools.com/howto/howto_css_style_hr.asp
+- w3schools helped me to remember how to correctly style the hr element using the shorthand border-top property - https://www.w3schools.com/howto/howto_css_style_hr.asp
 
-https://stackoverflow.com/questions/6722467/how-do-i-remove-the-default-link-color-of-the-html-hyperlink-a-tag
+- Stackoverflow helped me to remove the default blue styling that appears for a link. In this particular case, I applied the following declarations to the email address on the contact page 'text-decoration: none' and 'color: inherit;' - https://stackoverflow.com/questions/6722467/how-do-i-remove-the-default-link-color-of-the-html-hyperlink-a-tag
 
-https://stackoverflow.com/questions/220273/how-can-i-reorder-my-divs-using-only-css
+- Stackoverflow also helped me to control the display order of my divs on the kilt-hire.html page when viewed on a mobile. Without the 'display: flex;' declaration and suggestion to order the divs by id for smaller screens, the running order on the page would be incorrect and the user wouldn't know which text description was for which image - https://stackoverflow.com/questions/220273/how-can-i-reorder-my-divs-using-only-css
 
-https://blog.hubspot.com/website/how-to-embed-google-map-in-html
+- The following page helped me remember how to embed a Google Map onto my contact page - https://blog.hubspot.com/website/how-to-embed-google-map-in-html
 
 ### **Media:**
 
