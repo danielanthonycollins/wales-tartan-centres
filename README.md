@@ -8,7 +8,7 @@
 
 Wales Tartan Centres is a local business who provide Welsh kilt hire throughout South Wales for weddings and other formal events. The main target audience is couples getting married but also anyone looking for something different to wear to a formal occasion.
 ​
-![Am I responsive screenshot](imagelocation so maybe docs/image.jpg)
+
 ​
 
 ## Table of contents:
@@ -25,7 +25,7 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
   - [**Typography**](#typography)
   - [**Current Features Common to all pages**](#current-features-common-to-all-pages)
   - [**Other Features**](#other-features)
-  - [**Future-Enhancements**](#future-enhancements)
+  - [**Future Enhancements**](#future-enhancements)
   - [**Testing Phase**](#testing-phase)
   - [**Bugs**](#bugs)
   - [**Deployment**](#deployment)
@@ -247,7 +247,13 @@ I decided to import the ASAP font from Google Fonts, which can be found at the t
 - This is the message shown by the 404 page when the user tries to navigate to a page on the website which doesn't exist or is not working.
   ​
 
-## **Future-Enhancements**
+## **Future Enhancements**
+
+The following enhancements could be made in the future to improve the website:
+
+- A 'Why use us?' page could be added showing the companies USP's (unique selling points), with images to support each USP. For example, kilts are actually made on-site, so a photo of someone making a kilt backed up by an image from behind the scenes.
+- More input types could be added to the contact form, such as function date and customers address to give the company more information about the person enquiring, and also what their needs are.
+- A short muted video could be added to promote the company and the products offered, for those who prefer a video to see the options available, rather than static images.
 
 ​
 
@@ -355,6 +361,7 @@ I deployed the page on GitHub pages via the following procedure: -
 
 ### **Honorable mentions**
 
+Special thanks to my mentor Richard Wells for his excellent advice and support throughout this project.
 ​
 
 ### **Content:**
