@@ -8,17 +8,17 @@
 
 Wales Tartan Centres is a local business who provide Welsh kilt hire throughout South Wales for weddings and other formal events. The main target audience is couples getting married but also anyone looking for something different to wear to a formal occasion.
 
-## Table of contents:
+## **Table of contents:**
 
 - [**Wales Tartan Centres**](#wales-tartan-centres)
   - [**Site Overview**](#site-overview)
-  - [Table of contents:](#table-of-contents)
+  - [**Table of contents**](#table-of-contents)
   - [**Planning stage**](#planning-stage)
-    - [**Target Audiences:**](#target-audiences)
-    - [**User Stories:**](#user-stories)
-    - [**Site Aims:**](#site-aims)
-    - [**Wireframes:**](#wireframes)
-    - [**Color Scheme:**](#color-scheme)
+    - [**Target Audiences**](#target-audiences)
+    - [**User Stories**](#user-stories)
+    - [**Site Aims**](#site-aims)
+    - [**Wireframes**](#wireframes)
+    - [**Color Scheme**](#color-scheme)
   - [**Typography**](#typography)
   - [**Current Features Common to all pages**](#current-features-common-to-all-pages)
   - [**Other Features**](#other-features)
@@ -29,25 +29,25 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
   - [**Tech**](#tech)
   - [**Credits**](#credits)
     - [**Honorable mentions**](#honorable-mentions)
-    - [**Content:**](#content)
-    - [**Media:**](#media)
+    - [**Content**](#content)
+    - [**Media**](#media)
 
 ## **Planning stage**
 
-### **Target Audiences:**
+### **Target Audiences**
 
 - Users getting married in the South Wales region
 - Users interested in formalwear for their upcoming function
 - Users interested in something different to wear to their prom or graduation
 
-### **User Stories:**
+### **User Stories**
 
 - As a user, I want to see the subject matter of the page.
-- As a user, I want to navigate the page to find what I require quickly and easily.
+- As a user, I want to navigate the website to find what I require quickly and easily.
 - As a user, I want to know which tartans are available to hire
 - As a user, I want to find out how much it is to hire a kilt
 
-### **Site Aims:**
+### **Site Aims**
 
 - To inform the user about Welsh tartan kilt hire
 - To inform the user about the home hire service, for those who live outside of Swansea
@@ -55,7 +55,7 @@ Wales Tartan Centres is a local business who provide Welsh kilt hire throughout 
 - To inform the user about what the company offer when they are in store
 - To offer the user an oppertunity to get in contact
 
-### **Wireframes:**
+### **Wireframes**
 
 Home Page Desktop View
 
@@ -89,7 +89,7 @@ Contact Us Mobile & Tablet View
 
 ![Contact Us Page Mobile & Tablet Wireframe](documentation/wireframes/contactusmobilewf.png)
 
-### **Color Scheme:**
+### **Color Scheme**
 
 As the company logo is red, I chose to use a red #9d080b from the logo as the main colour for creating backgrounds, hover effects and hr elements etc and a white backround for the entire site to help the red jump of the page.
 
@@ -114,7 +114,7 @@ Mobile view:
 - On smaller screens the page links are reduced to a hamburger menu to optimize the users experience.
 - The logo always acts as a link to the home page.
 - The white background helps the logo and page links stand out on the screen.
-- This section is linked to the user story 'As a user, I want to navigate the page to find what I require quickly and easily.'
+- This section is linked to the user story 'As a user, I want to navigate the website to find what I require quickly and easily.'
 
 ### Footer:
 
@@ -330,6 +330,24 @@ Functionality of the website was tested as follows:
 
   - thank-you.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/thank-you.html).
 
+### **Testing user stories**
+
+**User story 1**: As a user, I want to see the subject matter of the page.
+
+**Acheived?**: Yes. Each page clearly shows the subject matter through clear images and concise text.
+
+**User story 2**: As a user, I want to navigate the website to find what I require quickly and easily.
+
+**Acheived?**: Yes. Every page is quickly and easily accessible via the navigation bar which features throughout the website. Each page is a good length, long enough to fit the content required but not too long causing the user to get lost and lose interest.
+
+**User story 3**: As a user, I want to know which tartans are available to hire
+
+**Acheived?**: Yes. The kilt hire page displays the three tartans available to hire along with some information on each tartan and the prices to hire them.
+
+**User story 4**: As a user, I want to find out how much it is to hire a kilt
+
+**Acheived?**: Yes. The kilt hire page includes prices for each hire outfit available.
+
 ## **Bugs**
 
 I found the following bugs during the development process:
@@ -383,7 +401,7 @@ Thank you to my employer, Wales Tartan Centres for allowing me to use their own 
 
 Special thanks to my mentor Richard Wells for his excellent advice and support throughout this project.
 
-### **Content:**
+### **Content**
 
 - w3schools helped me to remember how to correctly style the hr element using the shorthand border-top property - https://www.w3schools.com/howto/howto_css_style_hr.asp
 
@@ -393,6 +411,6 @@ Special thanks to my mentor Richard Wells for his excellent advice and support t
 
 - The following page helped me remember how to embed a Google Map onto my contact page - https://blog.hubspot.com/website/how-to-embed-google-map-in-html
 
-### **Media:**
+### **Media**
 
 All stock images were kindly provided by Wales Tartan Centres, for use with this project.
