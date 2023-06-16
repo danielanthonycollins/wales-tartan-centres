@@ -151,13 +151,57 @@ This is an example of the features section, your going to talk about each sectio
 
 ### **Validators**
 
-- CSS validator result:
+- HTML validator results (using [Markup Validation Service](https://validator.w3.org/)):
 
-![CSS main result](documentation/screenshots/cssmainresult.png)
+  - index.html
 
-Three warnings were as per the image below. The first is due to the import of Google Fonts. The last two were due to a background and border color being the same, however this was needed to apply consistency to the hover feature applied to the button.
+  ![index.html result](documentation/screenshots/indexvalidatorresult.png)
 
-![CSS warning result](documentation/screenshots/csswarningresult.png)
+  - kilt-hire.html
+
+  ![kilt-hire.html result](documentation/screenshots/kilthirevalidatorresult.png)
+
+  - about-us.html
+
+  ![about-us.html result](documentation/screenshots/aboutusvalidatorresult.png)
+
+  - contact.html
+
+  ![contact.html result](documentation/screenshots/contactvalidatorresult.png)
+
+  - 404.html
+
+  ![404.html result](documentation/screenshots/404validatorresult.png)
+
+  - thank-you.html
+
+  ![thank-you.html result](documentation/screenshots/thankyouvalidatorresult.png)
+
+- CSS validator results (using [CSS Validation Service](https://jigsaw.w3.org/css-validator/)):
+
+  - CSS main result:
+
+  ![CSS main result](documentation/screenshots/cssmainresult.png)
+
+  - CSS warnings:
+
+  Three warnings were as per the image below. The first is due to the import of Google Fonts. The last two were due to a background and border color being the same, however this was needed to apply consistency to the hover feature applied to the button.
+
+  ![CSS warning result](documentation/screenshots/csswarningresult.png)
+
+- Accessibility validator results (using [WAVE](https://wave.webaim.org/)):
+
+  - index.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/index.html).
+
+  - kilt-hire.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/kilt-hire.html).
+
+  - about-us.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/about-us.html).
+
+  - contact.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/contact.html).
+
+  - 404.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/404.html).
+
+  - thank-you.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/thank-you.html).
 
 ​
 ​
