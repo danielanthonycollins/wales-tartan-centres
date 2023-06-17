@@ -26,6 +26,18 @@ body {
     width: 20%;
 }
 
+h1 {
+    font-size: 2.2em;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+h3 {
+    font-size: 1.6em;
+}
+
 /*---- Home Hero Image ----*/
 
 #home-hero-image {
@@ -79,8 +91,6 @@ body {
 
 .red-info-box h2 {
     text-transform: uppercase;
-    font-weight: 300;
-    font-size: 1.8em;
 }
 
 .red-info-box i {
@@ -179,9 +189,9 @@ body {
     }
 }
 
-#kilt-hire-desc-1 h3,
-#kilt-hire-desc-2 h3,
-#kilt-hire-desc-3 h3 {
+#kilt-hire-desc-1 h1,
+#kilt-hire-desc-2 h1,
+#kilt-hire-desc-3 h1 {
     padding-bottom: 20px;
 }
 
