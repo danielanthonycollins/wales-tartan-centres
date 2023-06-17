@@ -330,6 +330,58 @@ Functionality of the website was tested as follows:
 
   - thank-you.html - No errors found. Full results can be found [here](https://wave.webaim.org/report#/https://danielanthonycollins.github.io/wales-tartan-centres/thank-you.html).
 
+### **Lighthouse**
+
+Lighthouse results for each page on both mobile and desktop view were as follows:
+
+- index.html Desktop view:
+
+![Index desktop lighthouse results](documentation/screenshots/homelighthousedesktopscreenshot.png)
+
+- index.html Mobile view:
+
+![Index mobile lighthouse results](documentation/screenshots/homelighthousemobilescreenshot.png)
+
+- kilt-hire.html Desktop view:
+
+![Kilt hire desktop lighthouse results](documentation/screenshots/kilthirelighthousedesktopscreenshot.png)
+
+- kilt-hire.html Mobile view:
+
+![Kilt hire mobile lighthouse results](documentation/screenshots/kilthirelighthousemobilescreenshot.png)
+
+- about-us.html Desktop view:
+
+![About us desktop lighthouse results](documentation/screenshots/aboutuslighthousedesktopscreenshot.png)
+
+- about-us.html Mobile view:
+
+![About us mobile lighthouse results](documentation/screenshots/aboutuslighthousemobilescreenshot.png)
+
+- contact.html Desktop view:
+
+![Contact desktop lighthouse results](documentation/screenshots/contactlighthousedesktopscreenshot.png)
+
+- contact.html Mobile view:
+
+![Contact mobile lighthouse results](documentation/screenshots/contactlighthousemobilescreenshot.png)
+
+- thank-you.html Desktop view:
+
+![Thank you desktop lighthouse results](documentation/screenshots/thankyoulighthousedesktopscreenshot.png)
+
+- thank-you.html Mobile view:
+
+![Thank you mobile lighthouse results](documentation/screenshots/thankyoulighthousemobilescreenshot.png)
+
+- 404.html Desktop view:
+
+![404 desktop lighthouse results](documentation/screenshots/404lighthousedesktopscreenshot.png)
+
+- 404.html Mobile view:
+
+![404 mobile lighthouse results](documentation/screenshots/404lighthousemobilescreenshot.png)
+
 ### **Testing user stories**
 
 **User story 1**: As a user, I want to see the subject matter of the page.
