@@ -34,10 +34,6 @@ h2 {
     font-size: 1.8em;
 }
 
-h3 {
-    font-size: 1em;
-}
-
 /*---- Home Hero Image ----*/
 
 #home-hero-image {
@@ -275,6 +271,10 @@ h3 {
 .footer {
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.footer-heading {
+    font-size: 1.25em;
 }
 
 .i-footer-heading {
