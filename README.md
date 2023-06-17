@@ -263,7 +263,7 @@ Responsiveness was checked and worked as intended with the following browsers an
   - Safari
   - Firefox
 
-Devtools was also used to check the responsiveness as various screen sizes and devices from the list of devices available. All were fully responsive and caused no issues.
+Devtools was also used to check the responsiveness at various screen sizes and devices from the list of devices available. All were fully responsive and caused no issues.
 
 ### **Functionality**
 
