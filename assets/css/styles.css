@@ -77,9 +77,10 @@ body {
     font-weight: 200;
 }
 
-.red-info-box h3 {
+.red-info-box h2 {
     text-transform: uppercase;
     font-weight: 300;
+    font-size: 1.8em;
 }
 
 .red-info-box i {
