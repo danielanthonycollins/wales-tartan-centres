@@ -238,8 +238,10 @@ body {
     margin-bottom: 20px;
 }
 
-.contact-info-padding {
-    padding: 8px 0;
+.contact-info {
+    padding: 6px 0;
+    font-weight: 500;
+    font-size: 1.2em;
 }
 
 .contact-hr {
