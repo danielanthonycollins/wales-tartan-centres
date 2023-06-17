@@ -421,6 +421,11 @@ I found the following bugs during the development process:
   - Cause: I was advised that vertical-align is a very tricky style declaration to perfect and can cause problems by my mentor.
   - Resolution: Using devtools to try a few different possible solutions, I used the align-self property instead and added the 'red-background-correction' class to fill in the missing red sections above and below the text, otherwise the red background would have just fitted to the text and not matched with the image height.
 
+- CSS media query for kilt-hire.html
+    - Problem: When viewing at 768px screen width, the images were all on one side of the screen and text on the right, when they should be alternating.
+    - Cause: The media query linked to this section in styles.css was set to the wrong value. It was set at max-width 768px.
+    - Resolution: The max-width value was changed to 767px and the issue was resolved.
+
 ---
 
 ## **Deployment**
