@@ -144,7 +144,7 @@ Mobile view:
 
 ### Home - Customer Reviews:
 
-![Home Customer Reviews](documentation/screenshots/customerreviewsscreenshot.png)
+![Home Customer Reviews](documentation/screenshots/customerreviewsscreenshot2.png)
 
 - The companies customer reviews were included on the home page so that users could see what previous customers of the company think about their products and quality of service.
 - This was styled with a red background and white text to separate the welcome message above and footer below, but also to help this section stand out on the page.
@@ -174,7 +174,7 @@ Mobile view:
 
 ### About Us - Home Hire Service:
 
-![About Us Home Hire Service](documentation/screenshots/aboutushomehireservice.png)
+![About Us Home Hire Service](documentation/screenshots/aboutushomehireservice2.png)
 
 - This section is based on the same red customer reviews section shown on the home page, just with some different information.
 - One of the site aims was to promote this service that the company offers, so I decided to use the strong red background with white text, to really make it stand out. I also included a home icon using Fontawesome, to draw the users eye to this feature.
@@ -190,7 +190,7 @@ Mobile view:
 
 ### Contact - Contact Information:
 
-![Contact Information](documentation/screenshots/contactinformationscreenshot.png)
+![Contact Information](documentation/screenshots/contactinformationscreenshot2.png)
 
 - This feature displays the companies telephone number, email address and store address should they wish to contact or visit the company themselves.
 - Each contact method starts with the relevant font awesome icon, styled to match the branding of the rest of the website.
