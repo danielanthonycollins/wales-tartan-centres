@@ -332,7 +332,7 @@ Functionality of the website was tested as follows:
 
 ### **Lighthouse**
 
-Lighthouse results for each page on both mobile and desktop view were as follows:
+Lighthouse results for each page on both mobile and desktop view were as follows. Where the accessibility score isn't quite as high as it could be, this is due to the aria-description issue raised below in the [bugs](#bugs) section.
 
 - index.html Desktop view:
 
